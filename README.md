@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm Farzad!
 ### 🚀 Full-Stack Developer | Tech Explorer
 
-<img alt="Capsule-Render" src="[blob:https://capsule-render.vercel.app/c525a723-fd1a-4e85-a5e4-150542095325](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=CloseZad)">
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=CloseZad" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Building+digital+experiences;Solving+complex+problems;Learning+something+new+every+day)](https://git.io/typing-svg)
 
